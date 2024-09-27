@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 Senior at Cornell University majoring in Computer Science. I'm passionate about building scalable and resilient software, from full-stack web apps 🌐 to messaging systems 📩.
+
+🔭 I’m currently developing Floc App 💧 - a full-stack application powered by computer vision to assist plant operators in monitoring and improving water quality.
+
+Skills:
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,ocaml,c,cpp,js,spring,azure,kubernetes,docker,rabbitmq,react,flask,pytorch,postgres)
