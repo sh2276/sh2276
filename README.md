@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm passionate about building scalable and resilient software, from full-stack web apps 🌐 to messaging systems 📩.
 
-🔭 I’m currently developing Floc App 💧 - a full-stack application powered by computer vision to assist plant operators in monitoring and improving water quality.
+🔭 I’m currently developing Floc App 💧 - a full-stack web and desktop application powered by computer vision to assist plant operators in monitoring and improving water quality.
 
 Skills:
 
